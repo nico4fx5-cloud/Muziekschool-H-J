@@ -1,0 +1,34 @@
+.it1-1{
+    padding: 8px;
+    text-align: start;
+}
+
+.it1-3{
+     margin-left:16px;
+     text-align: start;
+     padding:16px;
+}
+.it2-1{
+    margin: 16px;
+    text-align: start;
+    color: #be5504;
+}
+
+.it2-2{
+    margin: 16px;
+    text-align: start;
+}
+
+.it2-3{
+    margin-left:16px;
+    text-align: start;
+    padding: 16px;
+}
+
+.it1-2{
+    border: 1px solid white
+}
+hr{
+    border: 1px solid black;
+}
+

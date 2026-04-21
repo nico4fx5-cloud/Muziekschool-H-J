@@ -1,0 +1,75 @@
+.it1-1 {
+	margin-bottom: 16px;
+	text-align: start;
+}
+
+.it1-2 {
+	margin-bottom: 12px;
+	text-align: start;
+}
+
+.it1-3 {
+	padding: 16px;
+	text-align: start;
+}
+
+p {
+	text-align: start;
+}
+
+.paragraaf {
+	text-align: start;
+	padding: 16px;
+}
+
+.saxofoon {
+	height: 100px;
+	width: 200px;
+}
+
+.trompet {
+	height: 100px;
+	width: 200px;
+	margin: 32px;
+	display: block;
+}
+.saxofoon2 {
+	height: 100px;
+	width: 200px;
+	margin: 32px;
+	display: block;
+}
+
+.it2-1 {
+	text-align: start;
+	color: #be5504;
+}
+
+.it2-2 {
+	text-align: start;
+}
+
+.it2-3 {
+	text-align: start;
+	color: #be5504;
+    padding: 16px;
+}
+
+.it2-4 {
+	text-align: start;
+}
+
+@media only screen and (min-width: 767px) {
+	.saxofoon {
+		height: 250px;
+		width: 350px;
+	}
+	.trompet {
+		height: 250px;
+		width: 350px;
+	}
+	.saxofoon2 {
+		height: 250px;
+		width: 350px;
+	}
+}

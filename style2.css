@@ -1,0 +1,85 @@
+p{
+    text-align: start;
+}
+
+.p{
+    padding: 16px;
+}
+
+.it1-1{
+    padding: 16px;
+}
+
+.kind{
+    height: 400px;
+    width: 200px;
+    padding: 32px;
+}
+
+.Hannah{
+    height:150px;
+    width:100px;
+    float: inline-end;
+    float: right;
+    margin: 16px;
+}
+
+.Jesse{
+
+    height:150px;
+    width:100px;
+    float: inline-start;
+    float: left;
+    margin: 16px;
+}
+
+.it2-1{
+    color: #be5504;
+    margin: 16px;
+    text-align: start;
+}
+
+.it2-2{
+    margin: 16px;
+    text-align: start;
+}
+
+.it2-3{
+    color: #be5504;
+    margin: 16px;
+    text-align: start;
+}
+
+.it2-4{
+    margin: 16px;
+    text-align: start;
+}
+
+.it2-5{
+    margin: 16px;
+    text-align: start;
+
+}
+
+.it2-6{
+    margin: 16px;
+}
+
+
+.it{
+    padding: 16px;
+}
+
+@media only screen and (min-width: 767px) {
+    .Hannah{
+        height:350px;
+        width:250px;
+    }
+
+    .Jesse{
+        height:350px;
+        width:250px;
+        margin: 16px;
+    }
+}
+
